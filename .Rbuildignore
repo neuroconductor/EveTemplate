@@ -6,3 +6,8 @@ CITATIONS.bib
 ^.*\.Rproj$
 ^\.Rproj\.user$
 .gitignore
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
